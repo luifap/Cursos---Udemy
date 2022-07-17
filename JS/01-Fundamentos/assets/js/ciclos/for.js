@@ -14,6 +14,6 @@ for( let i in heroes ){
 }
 
 console.warn('For of');
-for( let i of heroes ){
-    console.log( i);
+for( let heroe of heroes ){
+    console.log( heroe);
 }
